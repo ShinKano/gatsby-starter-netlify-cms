@@ -1,24 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: ひらめきは手のひらの中に
+image: /img/legopink.jpg
+heading: ひらめきは手のひらの中に
+subheading: ブロックを組み立てて、手の知恵から学ぼう。
 mainpitch:
-  title: Why Kaldi
+  title:  LEGO®と"ひらめき"
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    ツヴィッカウの裕福な家庭に生まれ、ライプツィヒ大学の法科に進むも、ピアニストをめざしてフリードリヒ・ヴィークに師事する。しかし、指の故障によりピアニストを断念、作曲家となる。ヴィークの娘でピアニストのクララとの恋愛と結婚はシューマンの創作活動に多大な影響を及ぼした。文学への造詣も深く、1834年に「新音楽時報」の創刊に携わり、以後10年間にわたって音楽評論活動を行う。
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  ツヴィッカウの裕福な家庭に生まれ、ライプツィヒ大学の法科に進むも、ピアニストをめざしてフリードリヒ・ヴィークに師事する。しかし、指の故障によりピアニストを断念、作曲家となる。ヴィークの娘でピアニストのクララとの恋愛と結婚はシューマンの創作活動に多大な影響を及ぼした。文学への造詣も深く、1834年に「新音楽時報」の創刊に携わり、以後10年間にわたって音楽評論活動を行う。
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/Lego_Brick_1.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
